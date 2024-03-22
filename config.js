@@ -12,7 +12,7 @@ global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '94785274495'
 global.devs = '2347039570336';
-global.website = 'https://github.com/darkewing/CYBER-MD' //wa.me/+94785274495
+global.website = 'https://github.com/darkewing/CYBER-MD-BOT' //wa.me/+94785274495
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'CYBER MD 𝐁𝐨𝐭' : process.env.BOT_NAME,
@@ -20,7 +20,7 @@ module.exports = {
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'excel' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'Dark-Ewing-Md' : process.env.PACK_INFO.split(";")[1],
+  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'Cyber-Md_Bot' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
