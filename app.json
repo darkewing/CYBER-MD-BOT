@@ -2,7 +2,7 @@
   "name": "CYBER-MD by excel ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/297c5ebf88e2793b0f256.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","EWINGMD","theme bot","multi device","baileys","excel"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","CYBERMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
