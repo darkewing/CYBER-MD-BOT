@@ -236,11 +236,11 @@ cmd({
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by EXCEL.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-*_DARK EWINGS MD_* 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n*⚙️ OWNER ❶* 
+*_CYBER_MD_BOT_* 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n*⚙️ OWNER ❶* 
 
-➥ *https://Wa.me//+94767533889🧸?text=𝐑𝐔𝐊𝐒𝐇𝐀𝐍_𝐌𝐃_➤🇱🇰*\n*⚙️ *OWNER ❷*
+➥*https://Wa.me//+94785274495🧸?text=𝐑𝐔𝐊𝐒𝐇𝐀𝐍_𝐌𝐃_➤🇱🇰*\n*⚙️ *OWNER ❷*
 
-➥ *https://Wa.me//+94787102936🧸?text=DEXTER_𝐌𝐃_➤🇱🇰*\n\n⚙️
+➥*https://Wa.me//+94757660788🧸?text=DEXTER_𝐌𝐃_➤🇱🇰*\n\n⚙️
 *📍Version:-* _0.0.7_
 *🕐Uptime:-* _${runtime(process.uptime())}_
 *👤Owner:-* _${Config.ownername}_
@@ -248,20 +248,20 @@ cmd({
 ━━✥◈✥━━\n
        🔥  *BOT COMMAND °* 🔥
 ┌───────────────────────
-├ ⚙️ *CMD:-.MENU*
-├ 📥 *DOWNLOAD CMD :-.SONG,.YT,.APK* 
-├ 📌 *PANEL:-.PANEL*
-├ ♣️ *LOGO :-.LOGO*
-├ 🕊️ *DARK EWING MD BOT* ❤‍🩹
+├ ⚙️*CMD:-.MENU*
+├ 📥*DOWNLOAD CMD :-.SONG,.YT,.APK* 
+├ 📌*PANEL:-.PANEL*
+├ ♣️*LOGO:-.LOGO*
+├ 🕊️*CYBER-MD BOT* ❤‍🩹
 └───────────────────────
 ┌───────────────────────
-├ ⚙️ *BOT  DEPLOY*➤*https://github.com/darkewing/DARK-EWING*
+├ ⚙️*BOT-DEPLOY*➤*https://github.com/darkewing/CYBER-MD-BOT*
 ├───────────────────────
 │ *✆SUPPORT GROUPE:-https://chat.whatsapp.com/E8SGBZBS54j5iFbUOIXwXE* 
 └──────────────────────
 *🗓️Type .menu for my command list.*
 *📥DEPLOY VIDEO:-https://www.youtube.com/@cyber_amda*
-*_🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩Y  FLAZY AND DEXTER*
+*_🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃-𝚩Y-CYBER-DEXTER-AND-KING-LOKU-RAVI*
 
 ♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
 ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ    ˢʰᵃʳᵉ\n_Powered by ${Config.ownername}_
