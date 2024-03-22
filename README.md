@@ -80,8 +80,8 @@
 
 
 ## Special Thanks to
-* [`DEXTER_AMDA_`](tiktok.com/@_cyber_hr_king/)
-* <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
+* [`KING LOKU RAVI_`](tiktok.com/@_cyber_hr_king/)
+* <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/297c5ebf88e2793b0f256.jpg" width=80 height=80></a> 
 ---
 
 <br>
@@ -95,6 +95,6 @@
 
 
 
-`Release date:- 2023.11.27`
+`Release date:- 2024.03.30`
 <br>
 `Latest updated date:- NO UPDATE`
