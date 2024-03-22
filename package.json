@@ -6,8 +6,8 @@
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Ewing",
-    "stop": "pm2 stop Ewing"
+    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Cyber",
+    "stop": "pm2 stop Cyber"
   },
   "author": "CYBER-DEXTER-/KING-LOKU-RAVI",
   "dependencies": {
