@@ -8,8 +8,8 @@
  
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/8b610e9a781dc777c9fff.jpg">
-    <h1 align="center">DARK-EWING</h1>
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/457fe58703f09b5e7bf95.jpg">
+    <h1 align="center">CYBER-MD</h1>
   </a>
 </p>  
 <p align="center">
