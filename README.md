@@ -24,7 +24,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg">
-    <img alt="DARK EWING" height="300" src="https://telegra.ph/file/b8582799208c45f1920c9.jpg">
+    <img alt="DARK EWING" height="300" src="https://telegra.ph/file/7f8ac5dd73995644ff818.jpg">
     </a>
 </p>  
 
