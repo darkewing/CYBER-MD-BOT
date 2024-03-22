@@ -87,7 +87,7 @@
 <br>
 
 
-![license](https://telegra.ph/file/7f195320e3e886ca4ae27.jpg?color=green&label=License&style=plastic)
+![license](https://telegra.ph/file/b9d236824c82acca3d9bc.jpg?color=green&label=License&style=plastic)
 
 
 
