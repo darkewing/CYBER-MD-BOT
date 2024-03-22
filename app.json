@@ -88,8 +88,8 @@
     "value": "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
-     "value": "CYBERMD"
+    "description": "Put the theme name you want to use. Avilable themes are CYBER-MD and many more..",
+     "value": "CYBE-RMD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
