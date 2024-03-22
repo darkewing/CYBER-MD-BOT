@@ -114,7 +114,7 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/excelottah6/DARK-EWING-MD')
+        let { data } = await axios.get('https://api.github.com/repos/excelottah6/CYBER-MD-BOT')
         let cap = `Hey ${citel.pushName}\n
 ╭┈─────────────────────    .· * • ˚
 │*Total Stars*: ${data.stargazers_count} stars
