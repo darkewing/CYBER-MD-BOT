@@ -2,8 +2,13 @@
 ## DARK EWING BOT BY CYBER DEXTER AND CYBER AMDA
 <br>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+ᗪᗩᖇK╺+EᗯIᑎG+-+BOT.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+ᴍʀ+ᴅᴀʀᴋ.ᴇᴡɪɴɢ.ᴛᴇᴀᴍ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐌𝐑.ᴄʏʙᴇʀ༆ᴅᴇxᴛᴇʀ;𝐌𝐑:+ᴄʏʙᴇʀ.ᴀᴍᴅᴀ࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
 
+    <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+CYBER-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CYBER+DEXTER+AND+KING+LOKU+RAVI;RELEASED+DATE+30%2F3%2F2024." alt="Typing SVG" /></a>
+
+<P
+
+ 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/8b610e9a781dc777c9fff.jpg">
