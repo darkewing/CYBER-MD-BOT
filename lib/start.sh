@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting DARK-EWING..."
+echo "Starting CYBER-MD..."
 node lib/client.js
 done
