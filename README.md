@@ -64,7 +64,7 @@
   
 ## QR SCAN
 
-<a href="https://replit.com/@CYBER-DEXTER-MD/DARK-EWING/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+<a href="https://replit.com/@sinhala677/CYBER-MD"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 
 
 ## DEPLOY IN HEROKU
