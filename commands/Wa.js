@@ -1099,12 +1099,12 @@ cmd({ on: "text" }, async(Void, citel) => {
                 },
                 caption: `
 ━━━━━༺❃༻━━━━━◇
-☱ *look at that! Someone just leveled up! ✨*
-☱ *👤 Name*: ${citel.pushName}
-☱ *🎚 Level*: ${sck1.level}
-☱ *🛑 Exp*: ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
-☱ *📍 Role*: *${role}*
-☱ *Enjoy! 😁*━━━━━༺❃༻━━━━——
+☱ look at that! Someone just leveled up! ✨
+☱ 👤 Name: ${citel.pushName}
+☱ 🎚 Level: ${sck1.level}
+☱ 🛑 Exp: ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
+☱ 📍 Role: ${role}*
+☱ Enjoy! 😁*━━━━━༺❃༻━━━━——
 `,
             }, {
                 quoted: citel,
