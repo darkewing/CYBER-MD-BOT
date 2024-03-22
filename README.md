@@ -74,7 +74,7 @@
 
    </details>
 
- <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/ff9d0311e2d4f2baa37f8.jpg" width=80 height=80></a>   
+ <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/297c5ebf88e2793b0f256.jpg" width=80 height=80></a>   
 
 ## **`CYBER-DEXTER-AND-CYBER AMDA-MD BOT OWNERS,`**
 
