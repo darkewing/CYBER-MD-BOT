@@ -49,23 +49,23 @@ Secktor.cmd({
                 })
                 const time = moment(moment())
                     .format('*HH:mm:ss*')
-                moment.tz.setDefault('*Asia/KOLKATA*')
-                    .locale('*id*')
-                const date = moment.tz('*Asia/Kolkata*').format('*DD/MM/YYYY*')
+                moment.tz.setDefault('Asia/KOLKATA')
+                    .locale('id')
+                const date = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
                 let str = `╭────《 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 》─────⊷\n`
                 str +=
                     '```' + `│ ╭──────────────◆
-📍 ➤*User*:- ${citel.pushName}
-📌 ➤*Theme*:- ${tlang().title}
-📍 ➤*Prefix*:- [ ${prefix} ]
-📌 ➤*Owner*:- ${Config.ownername}
-📍 ➤*Plugins*:- ${commands.length}
-📌 ➤*Users*:- ${total}
-📍 ➤*Uptime*:- ${runtime(process.uptime())}
-📌 ➤*Mem*:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-📍 ➤*Time*:- ${time}
-📌 ➤*Date*:- ${date}
+📍 ➤User:- ${citel.pushName}
+📌 ➤Theme:- ${tlang().title}
+📍 ➤Prefix:- [ ${prefix} ]
+📌 ➤Owner:- ${Config.ownername}
+📍 ➤Plugins:- ${commands.length}
+📌 ➤Users:- ${total}
+📍 ➤Uptime:- ${runtime(process.uptime())}
+📌 ➤Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+📍 ➤Time:- ${time}
+📌 ➤Date:- ${date}
 │ ╰──────────────◆
 ╰───────────────⊷\n
 ` + '```'
@@ -103,13 +103,13 @@ Secktor.cmd({
 ╭━━〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙━━──⊷`
             str += `
 ┃ ⛥╭──────────────      
-┃ ⛥│*User*: ${citel.pushName}
-┃ ⛥│*Theme*: ${tlang().title}
-┃ ⛥│*Prefix*: ${prefix}
-┃ ⛥│*Owner*: ${Config.ownername}
-┃ ⛥│*Commands*: ${commands.length}
-┃ ⛥│*Uptime*: ${runtime(process.uptime())}
-┃ ⛥│*Mem*: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃ ⛥│User: ${citel.pushName}
+┃ ⛥│Theme: ${tlang().title}
+┃ ⛥│Prefix: ${prefix}
+┃ ⛥│Owner: ${Config.ownername}
+┃ ⛥│Commands: ${commands.length}
+┃ ⛥│Uptime: ${runtime(process.uptime())}
+┃ ⛥│Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 ┃ ⛥│  
 ┃ ⛥╰───────────
 ╰━━━━━━━━━━━──⊷\n`
