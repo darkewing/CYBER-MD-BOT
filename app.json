@@ -49,7 +49,7 @@
      "required" :false
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94767533889",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94785274495",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -89,7 +89,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are CYBER-MD and many more..",
-     "value": "CYBE-RMD"
+     "value": "EWING"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
