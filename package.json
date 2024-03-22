@@ -1,7 +1,7 @@
 {
-  "name": "Dark-Ewing",
+  "name": "CYBER-MD",
   "version": "0.0.7",
-  "description": "Multi device whatsapp bot by Dark ewing team.",
+  "description": "Multi device whatsapp bot by CYBER-MD team.",
   "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
@@ -9,7 +9,7 @@
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Ewing",
     "stop": "pm2 stop Ewing"
   },
-  "author": "Dexter/Rukshan",
+  "author": "CYBER-DEXTER-/KING-LOKU-RAVI",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkewing/DARK-EWING.git"
+    "url": "git+https://github.com/darkewing/CYBER-MD-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/darkewing/DARK-EWING/issues"
+    "url": "https://github.com/darkewing/CYBER-MD-BOT/issues"
   },
-  "homepage": "https://github.com/darkewing/DARK-EWING#readme"
+  "homepage": "https://github.com/darkewing/CYBER-MD-BOT#readme"
 }
