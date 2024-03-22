@@ -1,5 +1,5 @@
 {
-  "name": "DARK-EWING by excel ",
+  "name": "CYBER-MD by excel ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/cf19902f6b57a00fcd56b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "EwingBot", "Secktor","EWINGMD","theme bot","multi device","baileys","excel"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Dexter / Rukshan"
+      "value": "CYBER DEXTER / KING LOKU RAVI"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
