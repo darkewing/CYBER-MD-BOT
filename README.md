@@ -57,8 +57,23 @@
 <br>
 <br>
 
- **`DEPLOYMENT METHODS`**
+##
+**`DEPLOYMENT METHODS`**
 
+ <details close>
+<summary> DEPLOYMENT METHODS </summary>
+## QR SCAN
+
+<a href="https://replit.com/@CYBER-DEXTER-MD/DARK-EWING/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
+
+
+## DEPLOY IN HEROKU
+
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/darkewing/DARK-EWING)
+   
+
+   </details>
+   
 
 ## QR SCAN
 
